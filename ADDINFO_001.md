@@ -1,6 +1,12 @@
 # [追加情報] Swift Playgroundsになでしこ３の文法エラーを表示する方法
+1. index.htmlファイルの65行目を下記のとおりに変更する。
+```
+65行目  c.display = "block"  →  c.style.display = "block"
+```
 
-- index.htmlファイルの38行目に以下のscriptタグを追加することにより表示されます。
+**下記は「コンソール表示」命令を使用する場合の変更点(文法エラーも表示される)**
+
+2. index.htmlファイルの38行目に以下のscriptタグを追加することにより表示されます。
 ```
 <script src="https://iwb.jp/s/js/tiny-console.js"></script>
 ```
