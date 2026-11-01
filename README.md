@@ -32,18 +32,18 @@
 
 ## 🛠 用意する実行環境 (動作確認済)
 
-### [iPad]
-### ① ローカル端末エミュレータ「a-Shell mini」
+ [iPad]
+ ① ローカル端末エミュレータ「a-Shell mini」
 
 - **対応 App Store:** [a-Shell mini](https://apps.apple.com/jp/app/a-shell-mini/id1543537943?platform=ipad)
 
-### ② 組み込みエミュレート端末内蔵のコードエディタ「Code App」（買い切り1100円）
+ ② 組み込みエミュレート端末内蔵のコードエディタ「Code App」（買い切り1100円）
 
 - **対応 App Store:** [Code App](https://apps.apple.com/jp/app/code-app/id1512938504?platform=ipad)
 - **金額:** 買い切り1100円
 
-### [Mac]
-### 標準のターミナルアプリ
+ [Mac]
+ 標準のターミナルアプリ
 
 ---
 
