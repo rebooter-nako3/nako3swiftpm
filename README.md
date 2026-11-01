@@ -33,6 +33,7 @@
 ## 🛠 用意する実行環境 (動作確認済)
 
  [iPad]
+
  ① ローカル端末エミュレータ「a-Shell mini」
 
 - **対応 App Store:** [a-Shell mini](https://apps.apple.com/jp/app/a-shell-mini/id1543537943?platform=ipad)
@@ -43,6 +44,7 @@
 - **金額:** 買い切り1100円
 
  [Mac]
+
  標準のターミナルアプリ
 
 ---
