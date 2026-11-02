@@ -123,4 +123,4 @@
 ## ℹ️ 追加情報
 
 - [Swift Playgroundsになでしこ３の文法エラーを表示する方法](./ADDINFO_001.md)
-- .swiftpmファイル(実体はフォルダ)のnako3フォルダ以下のファイル構成は[なでしこ3配布キット(nadesiko3webkit)](https://github.com/kujirahand/nadesiko3webkit)のwebappフォルダ以下のファイル構成と同じ物になります。nadesiko3フォルダは、本CLIツールの実行時に、なでしこ3本体の最新バージョンに置き換えられています。
+- .swiftpmファイル(実体はフォルダ)のnako3フォルダ以下のファイル構成は[なでしこ3配布キット(nadesiko3webkit)](https://github.com/kujirahand/nadesiko3webkit)のwebappフォルダ以下のファイル構成と同じ物になります。nadesiko3フォルダは、本CLIツールの実行時のなでしこ3本体の最新バージョンに置き換えられています。
